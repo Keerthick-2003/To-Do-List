@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "checked": true,
+      "item": "Solidity"
+    },
+    {
+      "id": "2",
+      "checked": false,
+      "item": "Blockchain"
+    },
+    {
+      "id": "3",
+      "checked": false,
+      "item": "AI"
+    }
+  ]
+}
